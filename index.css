@@ -1,0 +1,316 @@
+body{
+    width: 100%;
+    height: 4350px;
+    background: rgb(204, 204, 204);
+}
+.mckinley{
+    width: 1400px;
+    height: 4300px;
+    background: rgb(255, 255, 255);
+    margin-left: 65px;
+}
+.We{
+    width: 1400px;
+    height: 30px;
+    background: rgb(55,55,99);
+    text-align: center;
+    color: white;
+    padding-top: 8px;
+}
+.logo{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 80px;
+}
+.imglogo{
+    width: 160px;
+    height: 40px;
+    margin-top: 8px;
+}
+ul{
+    font-size: 20px;
+}
+.tel{
+    margin-left: 180px;
+}
+.Request{
+    width: 200px;
+    height: 50px;
+    margin-left: 30px;
+    font-size: 17px;
+    background:  rgb(55, 55, 99);
+    color: white;
+}
+
+
+
+.bulim2{
+    width: 1400px;
+    height: 550px;
+    background: rgb(232, 234, 241);
+    position: relative;
+    margin-top: 20px;
+
+}
+.Corporate{
+    width: 328px;
+    height: 50px;
+    font-size: 50px;
+    margin-top: 110px;
+    margin-left: 90px;
+    position: absolute;
+}
+.we{
+    width: 400px;
+    height: 50px;
+    font-size: 20px;
+    margin-top: 250px;
+    margin-left: 90px;
+    position: absolute;
+}
+.Request2{
+    width: 200px;
+    height: 50px;
+    margin-left: 90px;
+    font-size: 17px;
+    background:  rgb(55, 55, 99);
+    color: white;
+    margin-top: 370px;
+    position: absolute;
+}
+.orqa{
+    width: 600px;
+    height: 550px;
+    background:  rgb(55, 55, 99);
+    position: absolute;
+    margin-left: 800px;
+}
+.IMAGE{
+    width: 640px;
+    height: 620px;
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 50px;
+}
+.bulim3{
+    margin-top: 150px;
+}
+.Areas{
+    font-size: 40px;
+    margin-left: 90px;
+}
+.Ourdisciplined{
+    width: 441px;
+    font-size: 20px;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+.uchtaa{
+    display: flex;
+}
+.uchta{
+    width: 280px;
+    height: 270px;
+    text-align: left;
+    margin-left: 90px;
+    margin-top: 50px;
+    font-size: 18px;
+    box-shadow: 1px 10px 20px 2px rgb(189, 212, 225);
+    padding: 30px;
+    border: 0.5px solid rgb(229, 229, 229);
+}
+.Learn{
+    margin-top: 40px;
+}
+
+
+
+
+
+
+
+
+
+.bulim4{
+    margin-top: 100px;
+    position: relative;
+}
+.IMAGE6{
+    width: 1200px;
+    height: 600px;
+    margin-left: 100px;
+    position: absolute;
+}
+.Frame{
+    position: absolute;
+    width: 400px;
+    height: 450px;
+    margin-left:900px ;
+    margin-top: 150px;
+}
+
+
+
+.bulim5{
+    margin-top: 700px;
+}
+.Vector{
+   padding-top: 300px;
+   margin-left: 100px;
+}
+.Theteam{
+    font-size: 30px;
+    width: 640px;
+    height: 50px;
+    margin-left: 400px;
+    margin-top: -70px;
+    color:  rgb(55, 55, 99);
+    font-weight: 600;
+}
+.John{
+    margin-left: 600px;
+    margin-top: 40px;
+    font-size: 15px;
+    color:  rgb(55, 55, 99);
+}
+.IMAGE7{
+    margin-left: 1220px;
+    margin-top: -400px;
+} 
+
+
+
+
+
+
+
+.IMAGE8{
+    width: 340px;
+    height: 230px;
+    margin-left: -30px;
+    margin-top: -30px;
+}
+.uchtaa2{
+    display: flex;
+}
+.uchta2{
+    width: 280px;
+    height: 350px;
+    text-align: left;
+    margin-left: 90px;
+    margin-top: 50px;
+    font-size: 18px;
+    box-shadow: 1px 10px 20px 2px rgb(189, 212, 225);
+    padding: 30px;
+    border: 0.5px solid rgb(229, 229, 229);
+}
+.Learn2{
+    margin-top: 40px;
+}
+.December{
+  font-size: 15px;
+}
+
+
+
+
+
+
+
+.bulim6{
+    width: 1400px;
+    height: 500px;
+    background: rgb(212, 233, 246);
+    margin-top: 100px;
+    position: relative;
+}
+.Need{
+    position: absolute;
+    font-size: 50px;
+    margin-top: 140px;
+    margin-left: 380px;
+}
+.Get{
+    font-size: 25px;
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 480px;
+}
+.Request3{
+    width: 200px;
+    height: 50px;
+    margin-left: 600px;
+    font-size: 17px;
+    background:  rgb(55, 55, 99);
+    color: white;
+    margin-top: 300px;
+    position: absolute;
+}
+
+
+.bulim7{
+    width: 1400px;
+    height: 550px;
+    background:  rgb(55, 55, 99);
+    position: relative;
+    display: flex;
+}
+.McKInley{
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 90px;
+    margin-top: 100px;
+}
+.Westheimer{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 50px;
+}
+.Vector3  {
+ font-size: 15px;
+}
+.Vector3 img{
+    margin-top: 15px;
+}
+
+
+
+.input{
+    width: 280px;
+    height: 40px;
+    position: relative;
+    font-size: 15   px;
+}
+.legal{
+    font-size: 25px;
+    color: white;
+    margin-left: 500px;
+    width: 300px;
+    margin-top: 100px;
+}
+.imginput{
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.strelka{
+    position: absolute;
+    margin-left: -40px;
+    margin-top: 7px;
+    width: 30px;
+    height: 30px;
+}
+.tagi{
+    color: white;
+    margin-top: 500px;
+    width: 1400px;
+    height: 50px;
+    background:  rgb(30, 30, 50);
+    margin-left: -800px;
+    padding-top: 20px;
+}
+.Guide{
+    margin-left: 1200px;
+    margin-top: -20px;
+}
